@@ -1,0 +1,2 @@
+rootProject.name='U-wear'
+include ':app'
